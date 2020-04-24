@@ -131,6 +131,12 @@ a:hover {
     margin-top: 20px;
 }
 
+
+.review a p {
+    color: #000 !important;
+}
+
+
 /* Season Tickets */
 
 .season__tickets {
